@@ -11,5 +11,7 @@ Some chips that are used:
 Audio max98091
 Video TC358870
 Backlight SM5306
+Power converter NCP6924
+TFT driver otm1285a
 
 So everyhing is digital was no sense playing with pins
